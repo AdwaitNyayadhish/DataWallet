@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386240332730",
+    "firebase_url": "https://data-waallet-default-rtdb.firebaseio.com",
+    "project_id": "data-waallet",
+    "storage_bucket": "data-waallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386240332730:android:4d0e86d3a13806e00b5383",
+        "android_client_info": {
+          "package_name": "com.example.datawaallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386240332730-cofjigbnqqmcvuen6a9srt22tl2jc39d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLDJaeL5ltxhRiJZOvj3DgA-T5C47Ubq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386240332730-cofjigbnqqmcvuen6a9srt22tl2jc39d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
